@@ -1,0 +1,11 @@
+# 以下都是git不用push 的内容
+/dist
+.idea
+
+/mode_modules
+
+*.log
+
+.DS_Store
+
+.vscode/*
